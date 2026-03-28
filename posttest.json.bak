@@ -1,0 +1,38 @@
+[
+  {
+    "question": "The steepest descent method is also known as",
+    "qid": 1,
+    "option_a": "Newton Method",
+    "option_b": "Jacobi Method",
+    "option_c": "Gauss Method",
+    "option_d": "Gradient Descent Method",
+    "correct_option": "d"
+  },
+  {
+    "question": "In steepest descent method, the iteration stops when",
+    "qid": 2,
+    "option_a": "Gradient becomes very small",
+    "option_b": "Function becomes zero",
+    "option_c": "Step size becomes large",
+    "option_d": "Iteration number becomes negative",
+    "correct_option": "a"
+  },
+  {
+    "question": "The steepest descent method is commonly used in",
+    "qid": 3,
+    "option_a": "Machine learning",
+    "option_b": "Computer graphics",
+    "option_c": "Network routing",
+    "option_d": "Database management",
+    "correct_option": "a"
+  },
+  {
+    "question": "A major disadvantage of steepest descent method is",
+    "qid": 4,
+    "option_a": "Always diverges",
+    "option_b": "Requires no computation",
+    "option_c": "Slow convergence in some cases",
+    "option_d": "Cannot find minimum",
+    "correct_option": "c"
+  }
+]
