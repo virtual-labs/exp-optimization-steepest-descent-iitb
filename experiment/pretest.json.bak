@@ -1,0 +1,38 @@
+[
+  {
+    "question": "The steepest descent method is mainly used for",
+    "qid": 1,
+    "option_a": "Solving differential equations",
+    "option_b": "Finding the maximum value of a function",
+    "option_c": "Finding the minimum value of a function",
+    "option_d": "Solving linear programming problems",
+    "correct_option": "c"
+  },
+  {
+    "question": "The steepest descent method moves in the direction of",
+    "qid": 2,
+    "option_a": "Gradient",
+    "option_b": "Negative gradient",
+    "option_c": "Second derivate",
+    "option_d": "Poitive slope",
+    "correct_option": "b"
+  },
+  {
+    "question": "The general iteration formula of the steepest descent method is <span style='display:inline-block;'>$$ x = x-αf'(x) $$</span>",
+    "qid": 3,
+    "option_a": "Gradient",
+    "option_b": "Learning rate",
+    "option_c": "Error",
+    "option_d": "Iteration number",
+    "correct_option": "b"
+  },
+  {
+    "question": "The gradient of a function indicates",
+    "qid": 4,
+    "option_a": "Direction of maximum increase",
+    "option_b": "Direction of maximum decrease",
+    "option_c": "Minimum point directly",
+    "option_d": "Contant value",
+    "correct_option": "a"
+  }
+]
